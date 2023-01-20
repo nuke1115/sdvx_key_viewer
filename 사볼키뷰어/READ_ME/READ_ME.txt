@@ -29,6 +29,8 @@ https://dora-guide.com/pip-install/
 https://archmond.net/archives/10976
 https://pig-programming.tistory.com/4
 =================
+delete 키 누르면 누른 횟수 초기화됩니다
+=================
 twitter: @lysrhythmgamer
 discord: 노란딱지#7701
 *건의사항,문의할게 있으면 위의 연락처로 연락해주세요.
